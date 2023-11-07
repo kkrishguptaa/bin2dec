@@ -8,8 +8,8 @@ pages:
     - "echo 'deploying $CI_COMMIT_SHA'"
   artifacts:
     paths:
-      - ./
-  publish: ./
+      - src/
+  publish: src/
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
   environment: production
