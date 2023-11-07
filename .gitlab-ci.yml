@@ -4,9 +4,4 @@ stages:
 copy:
   stage: build
   script:
-    - mkdir public
-    - for file in "./"*
-        do
-          [[ $file = ./public ]] && continue
-          cp -r "$file" "./public"
-        done
+    - mv src public
