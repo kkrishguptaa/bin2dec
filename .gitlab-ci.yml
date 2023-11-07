@@ -2,7 +2,7 @@
 image: alpine:latest
 # Functions that should be executed before the build script is run
 before_script:
-  - mkdir /public
+  - mkdir public
 pages:
   script:
     - cp -r * public/
