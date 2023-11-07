@@ -4,7 +4,7 @@ image: alpine:latest
 before_script: []
 pages:
   script:
-    - echo "info: deploying $CI_COMMIT_REF_NAME"
+    - "echo \"info: deploying $CI_COMMIT_REF_NAME\""
   artifacts:
     paths:
       # The folder that contains the files to be exposed at the Page URL
