@@ -4,6 +4,7 @@ image: alpine:latest
 before_script: []
 pages:
   stage: deploy
+  script:
   artifacts:
     paths:
       - ./
