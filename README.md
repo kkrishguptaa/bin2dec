@@ -1,21 +1,9 @@
----
-title: Bin2Dec
-description: Simply Beautiful Binary to Decimal Converter
-# url: TBA
-# cover_image: TBA
-level: beginner
-tech: [html, css, javascript]
-featured: false
-origin:
-  issue: 1
-  repo: florinpop17/app-ideas
----
-
 <div align="center">
-  <img src="https://api.dicebear.com/6.x/shapes/svg?seed=Bin2Dec" height="100px" width="100px" />
+  <img src="https://gitlab.com/xkrishguptaa/bin2dec/-/raw/main/assets/logo.png" height="100px" width="100px" />
   <br />
   <h1>Bin2Dec</h1>
   <p>Simply Beautiful Binary to Decimal Converter</p>
+  <p><a href="https://xkrishguptaa.gitlab.io/bin2dec"><img src="https://img.shields.io/badge/View%20Deployed-2965F1?style=for-the-badge" alt="View Deployed" /></a></p>
 </div>
 
 ## 📸 Screenshots
