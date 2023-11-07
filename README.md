@@ -22,7 +22,7 @@ origin:
 
 | Desktop | Mobile |
 | --- | --- |
-| ![Screenshot of the application, the page includes a heading "Binary To Decimal", a textbox for input and a block of output](https://gitlab.com/xkrishguptaa/bin2dec/-/raw/main/assets/screenshot/desktop.png) |   ![Screenshot of Bin2Dec On A Mobile Device To Showcase That It's Responsive](https://gitlab.com/xkrishguptaa/bin2dec/-/raw/main/assets/screenshot/mobile.png)  |
+| ![Screenshot of the application, the page includes a heading "Binary To Decimal", a textbox for input and a block of output](https://gitlab.com/xkrishguptaa/bin2dec/-/raw/main/assets/screenshots/desktop.png) |   ![Screenshot of Bin2Dec On A Mobile Device To Showcase That It's Responsive](https://gitlab.com/xkrishguptaa/bin2dec/-/raw/main/assets/screenshots/mobile.png)  |
 
 ## 💡 Origin
 
