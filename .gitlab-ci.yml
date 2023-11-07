@@ -5,6 +5,7 @@ before_script: []
 pages:
   stage: deploy
   script:
+    - "echo 'deploying $CI_COMMIT_SHA'"
   artifacts:
     paths:
       - ./
