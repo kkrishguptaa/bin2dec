@@ -1,0 +1,9 @@
+version: "3.7"
+
+services:
+  web:
+    container_name: bin2dec
+    build: .
+    restart: always
+    ports:
+      - "8080:8080"

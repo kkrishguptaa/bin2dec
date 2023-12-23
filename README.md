@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://gitlab.com/xkrishguptaa/bin2dec/-/raw/main/assets/logo.png" height="100px" width="100px" />
+  <img src="https://github.com/xkrishguptaa/bin2dec/raw/main/assets/logo.png" height="100px" width="100px" />
   <br />
   <h1>Bin2Dec</h1>
   <p>Simply Beautiful Binary to Decimal Converter</p>
@@ -10,7 +10,7 @@
 
 | Desktop | Mobile |
 | --- | --- |
-| ![Screenshot of the application, the page includes a heading "Binary To Decimal", a textbox for input and a block of output](https://gitlab.com/xkrishguptaa/bin2dec/-/raw/main/assets/screenshots/desktop.png) |   ![Screenshot of Bin2Dec On A Mobile Device To Showcase That It's Responsive](https://gitlab.com/xkrishguptaa/bin2dec/-/raw/main/assets/screenshots/mobile.png)  |
+| ![Screenshot of the application, the page includes a heading "Binary To Decimal", a textbox for input and a block of output](https://github.com/xkrishguptaa/bin2dec/raw/main/assets/screenshots/desktop.png) |   ![Screenshot of Bin2Dec On A Mobile Device To Showcase That It's Responsive](https://github.com/xkrishguptaa/bin2dec/raw/main/assets/screenshots/mobile.png)  |
 
 ## 💡 Origin
 
