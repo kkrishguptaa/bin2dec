@@ -3,7 +3,7 @@
   <br />
   <h1>Bin2Dec</h1>
   <p>Simply Beautiful Binary to Decimal Converter</p>
-  <p><a href="https://xkrishguptaa.gitlab.io/bin2dec"><img src="https://img.shields.io/badge/View%20Deployed-2965F1?style=for-the-badge" alt="View Deployed" /></a></p>
+  <p><a href="https://xkrishguptaa.github.io/bin2dec"><img src="https://img.shields.io/badge/View%20Deployed-2965F1?style=for-the-badge" alt="View Deployed" /></a></p>
 </div>
 
 ## 📸 Screenshots
@@ -21,4 +21,4 @@
 
 ## 💡 Origin
 
-Details can be found => [#1](https://github.com/xkrishguptaa/learning/issues/1), Adapted from [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md)
+Details can be found => [xkrishguptaa/learning#1](https://github.com/xkrishguptaa/learning/issues/1), Adapted from [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md)
