@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 tomcat:11.0.0-jre21@sha256:56bad1e96748fc915e06be3d44238d6f882eeb520d04159c56d20fcb1459fed0
+FROM --platform=linux/amd64 tomcat:11.0.0-jre21@sha256:bd0e71b4ec3c193837efad554f7aaca5f5c2405b4e3fe2a56a54893fe7eb0767
 
 COPY src/ /usr/local/tomcat/webapps/ROOT/
 
